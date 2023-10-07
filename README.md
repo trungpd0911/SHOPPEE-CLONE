@@ -7,7 +7,7 @@ Web Shoppee Clone is a web-based e-commerce platform that allows users to browse
 ## Technologies Used
 
 - **Frontend**:
-  - HTML, CSS
+  - HTML5, CSS3
 
 ## Clone this repository to your local machine:
    ```bash
